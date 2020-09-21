@@ -6,7 +6,7 @@ and have an available **IDE** (Integrated Development Environment).
 For the purpose of this course we will use [Open JDK](https://openjdk.java.net/)
 and [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
-> If you already have this setup you can skip the steps bellow.
+> If you already have this setup you can skip the steps below.
 
 #### 1. Install Open JDK
 

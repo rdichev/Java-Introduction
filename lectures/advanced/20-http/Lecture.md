@@ -143,7 +143,7 @@ These status codes are returned when the server is aware that is has errered. In
 ## HTTPS overview 
 
 The **S** in HTTPS stands for **secure**. HTTPS uses TLS (or SSL) to encrypt the data transferred by the two parties. 
-This way HTTPS solves the following problems: 
+This way HTTPS guarantees that data send between the two parties can't be tampered with or spied on.
 
 ![http_vs_https](assets/http_vs_https.svg)
 
